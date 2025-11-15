@@ -32,5 +32,5 @@ pnpm lint
 ## Prime the AI
 
 ```prompt
-> Read README.md, CLAUDE.md, ai_docs/*, and run `git ls-files` to understand this codebase.
+> Read README.md, CLAUDE.md and run `git ls-files` to understand this codebase.
 ```
